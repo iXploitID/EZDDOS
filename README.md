@@ -8,3 +8,7 @@ pkg install python2
 pkg install git
 git clone https://github.com/iXploitID/EZDDOS
 bash start.sh
+
+
+EH BTW YANG KALIAN PILIH NOMER SATU YA GW LUPA :V 
+BLOM GW GANTI :V NAMA NYA
