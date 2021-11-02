@@ -1,0 +1,10 @@
+MENGGUNAKAN PROGAM PY ALIAS SI ULAR BERBISA :V
+ATAU SERING DI SEBUT PYTHON  DISINI SAYA KASIH
+SEDIKIT PROGAM BASH AGAR LEBIH MUDAH PENGUNAAN NYA :V
+
+CARA INSTALL
+pkg install bash
+pkg install python2
+pkg install git
+git clone https://github.com/iXploitID/EZDDOS
+bash start.sh
